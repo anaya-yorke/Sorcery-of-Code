@@ -26,6 +26,9 @@ I created this project because I wanted:
 - **Module 3:** Building AI applications
 - **Module 4:** Final project to show what you've learned
 
+## Follow Along With This Video Series
+coming soon!
+
 ## How to Start
 
 1. Fork or clone this repository
